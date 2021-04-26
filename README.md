@@ -28,11 +28,13 @@ The equivalent produced through the terminal
     YWW
     RWR
     BBB
-
+    
+```
 BGR YWO WYG ROO
 GOY OGO BRY GBW
 OBY GYB RRO GOG
-    
+ ```
+
     RBW 
     RYW
     WGY
