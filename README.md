@@ -7,8 +7,7 @@ This is still a work in progress, but essentially what I'm aiming to do is 2 thi
 # The scrambler
 In many online scrambles, you will see the following:
 
-![](media/csTimerExample.png) *
-*Image from [csTimer](https://www.speedcubingtips.eu/cstimer/src/)
+![](media/csTimerExample.png) *Image from [csTimer](https://www.speedcubingtips.eu/cstimer/src/)
 
 My program displays this in the terminal using characters to correspond to colors
 
