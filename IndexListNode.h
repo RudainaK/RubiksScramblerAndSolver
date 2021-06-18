@@ -6,8 +6,7 @@
 //  Copyright © 2021 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef IndexListClass_hpp
-#define IndexListClass_hpp
+#pragma once
 
 #include <iostream>
 
@@ -25,5 +24,5 @@ class FindexN {
     
 };
 
-#endif /* IndexListClass_hpp */
+
 

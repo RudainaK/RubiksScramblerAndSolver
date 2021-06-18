@@ -6,8 +6,7 @@
 //  Copyright © 2020 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef Face_h
-#define Face_h
+#pragma once
 
 #include "Sticker.h"
 
@@ -30,7 +29,3 @@ class face {
     
     
 };
-
-
-
-#endif /* Face_h */

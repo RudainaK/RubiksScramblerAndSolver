@@ -6,8 +6,7 @@
 //  Copyright © 2020 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef globals_h
-#define globals_h
+#pragma once
 
 //specifically for a 3x3 cube, may be changed later 
 #define totalStickers 54
@@ -37,4 +36,4 @@ static int edgeCoords[4][2] = {{0,1},{1,0},{1,2},{2,1}};
 
 //knowing how a cube behaves, the sticker with 5 never really moves, but corners 1379 and edges 2468 are free 
 //to swap around 
-#endif /* globals_h */
+

@@ -6,8 +6,7 @@
 //  Copyright © 2021 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef Algorithms_h
-#define Algorithms_h
+#pragma once
 
 //OLL algs
     
@@ -46,4 +45,4 @@ static string Zperm = "M' U M2 U M2 U M' U2 M2";
 
 
 
-#endif /* Algorithms_h */
+#pragma once

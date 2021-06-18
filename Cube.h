@@ -6,8 +6,7 @@
 //  Copyright © 2020 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef Cube_h
-#define Cube_h
+#pragma once
 
 #include <iostream>
 #include "Face.h"
@@ -74,4 +73,4 @@ class Cube{
     
 };
 
-#endif /* Cube_h */
+

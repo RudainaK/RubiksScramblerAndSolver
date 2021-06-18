@@ -6,8 +6,7 @@
 //  Copyright © 2020 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef Sticker_h
-#define Sticker_h
+#pragma once
 
 #include <iostream>
 using namespace std;
@@ -17,7 +16,7 @@ using namespace std;
 class sticker{
     public: 
     char color;
-    //white: W, green: G, blue: B, red: R, black: Z, orange: O, yellow: Y;
+    //white: W, green: G, blue: B, red: R, orange: O, yellow: Y;
     char position;
     //center(Middle): M, corner: C, edge: E
     int ID; //essentially an ID of the each piece ON A FACE
@@ -29,4 +28,4 @@ class sticker{
     
 };
 
-#endif /* Sticker_h */
+

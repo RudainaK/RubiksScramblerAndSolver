@@ -6,8 +6,7 @@
 //  Copyright © 2021 Rudaina Khalil. All rights reserved.
 //
 
-#ifndef IndexList_hpp
-#define IndexList_hpp
+#pragma once
 
 #include <iostream>
 #include "IndexListNode.h"
@@ -25,4 +24,3 @@ class IndexList{
     
 };
 
-#endif /* IndexList_hpp */

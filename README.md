@@ -4,6 +4,10 @@ This is still a work in progress, but essentially what I'm aiming to do is 2 thi
 2) Solve the cube in its scrambled state. 
 
 
+# Current Status
+This is a project that I'm using as a way to practice C++. It's still a work in progress so a lot of stuff is going to be rewritten. Mostly however, I wanted to do something with rubiks cubes because they're fun :)
+
+
 # The scrambler
 In many online scrambles, you will see the following:
 
